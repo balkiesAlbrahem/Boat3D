@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cerro de Los Lobos, terrain model, Spain
+* source:	https://sketchfab.com/3d-models/cerro-de-los-lobos-terrain-model-spain-0c24993031874f918aa48d3573f3fc85
+* author:	Sara Carena (https://sketchfab.com/saracarena1)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cerro de Los Lobos, terrain model, Spain" (https://sketchfab.com/3d-models/cerro-de-los-lobos-terrain-model-spain-0c24993031874f918aa48d3573f3fc85) by Sara Carena (https://sketchfab.com/saracarena1) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

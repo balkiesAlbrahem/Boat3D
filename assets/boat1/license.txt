@@ -1,0 +1,8 @@
+Model Information:
+* title:	Hacker-Craft Runabout
+* source:	https://sketchfab.com/3d-models/hacker-craft-runabout-88fd71fc831f4332a97e27e3b0e6b857
+* author:	trivial.cat (https://sketchfab.com/trivial.cat)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
